@@ -18,7 +18,7 @@ These improvements contribute to the overall usability and performance of YOLOv5
 <details open>
 <summary>Install</summary>
 
-Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) in a
+Clone repo and install [requirements.txt]([https://github.com/ultralytics/yolov5/blob/master/requirements.txt](https://github.com/Joran1101/YOLOv5-CBAM-Seal-Detection/blob/main/requirements.txt)) in a
 [**Python>=3.7.0**](https://www.python.org/) environment, including
 [**PyTorch>=1.7**](https://pytorch.org/get-started/locally/).
 
@@ -84,7 +84,7 @@ The first command will export the YOLOv5 model from the `best.pt` file to an ONN
 
 ## <div align="center">Contact</div>
 
-For YOLOv5 bugs and feature requests please visit [GitHub Issues](https://github.com/Joran1101/YOLOv5-CBAM/issues). 
+For YOLOv5 bugs and feature requests please visit [GitHub Issues](https://github.com/Joran1101/YOLOv5-CBAM-Seal-Detection/issues). 
 
 
 
