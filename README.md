@@ -39,7 +39,6 @@ python detect.py --source ./seal-test --weights ./runs/train/exp26/weights/best.
 BTW: When calling detect.py, if you do not comment out the convert_to_voc_xml function, parse_yolov5_predictions function, get_img_name function and the code line that quotes the error, you will get the VOC data format in the path of './data-gen/xml' xml file, the xml file can be normally parsed by data labeling tools such as labelimg, etc. You can use this technique to realize the function of using YOLOv5 for data pre-labeling, which can help you reduce the workload of data labeling.
      We have an example of using labelimg to parse xml files, see data-gen/labelImg.png
 
-<summary>Training</summary>
 </details>
 
 <details open>
